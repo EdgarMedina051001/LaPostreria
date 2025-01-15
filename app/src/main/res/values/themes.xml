@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LaPostreria" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/Color2</item>
+        <item name="colorPrimaryDark">@color/Color3</item>
+        <item name="colorPrimaryVariant">@color/Color2</item>
+        <item name="android:statusBarColor">@color/Color2</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.LaPostreria" parent="Base.Theme.LaPostreria" />
+    <style name="ThemeOverlay.AppCompat.navTheme">
+        <item name="colorPrimary">@color/Color3</item>
+        <item name="colorPrimaryDark">@color/Color3</item>
+        <item name="android:statusBarColor">@color/Color2</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

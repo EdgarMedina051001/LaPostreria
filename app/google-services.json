@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572259249154",
+    "project_id": "la-postreria-a46e8",
+    "storage_bucket": "la-postreria-a46e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572259249154:android:448f0932541f5ce76a4b1b",
+        "android_client_info": {
+          "package_name": "com.example.lapostreria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaXrwi_Hmr22Me1_kU3aSKvbybKca4v4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
